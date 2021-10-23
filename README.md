@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Dante 🐉</h1>
-<h3 align="center">A recent MBA graduate teaching myself how to program 💀</h3>
+<h3 align="center">A recent MBA graduate teaching myself how to code 💀</h3>
 
 - 📚 I’m currently learning **Solidity** (Would love help) and have become half decent at **Python** through Codecademy
 - 📄 Prior experience [https://www.linkedin.com/in/dante-amaral/](https://www.linkedin.com/in/dante-amaral/)

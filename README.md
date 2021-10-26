@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Dante 🐉</h1>
+<h1 align="center">Hi there! I'm Dante 🎭 </h1>
 <h3 align="center">A recent MBA graduate teaching myself how to code 🌈</h3>
 
 - 📚 I’m currently learning **Solidity** (Would love help) and have become half decent at **Python** through Codecademy

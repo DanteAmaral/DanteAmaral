@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning **Solidity** (Would love help) and have become half decent at **Python** through Codecademy
 - 📄 Prior experience [https://www.linkedin.com/in/dante-amaral/](https://www.linkedin.com/in/dante-amaral/)
-- 💬 Love disucssing anything realted to technology, economics, philosiphy and the amazing homo sapien
+- 💬 Love discussing anything realted to technology, economics, philosophy and the amazing homo sapien
 
 <h3 align="center"> If anyone has made it here, I appreciate you ❤️ </h3>
 

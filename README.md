@@ -5,7 +5,7 @@
 - 📄 Prior experience [https://www.linkedin.com/in/dante-amaral/](https://www.linkedin.com/in/dante-amaral/)
 - 💬 Love disucssing anything realted to technology, economics, philosiphy and the amazing homo sapien
 
-<h3 align="center"> If anyone has made it here, I apprecaite you ❤️ </h3>
+<h3 align="center"> If anyone has made it here, I appreciate you ❤️ </h3>
 
 <!--
 **DanteAmaral/DanteAmaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
